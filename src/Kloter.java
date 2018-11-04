@@ -1,4 +1,4 @@
-package com.fawwaz.tugas;
+
 
 public class Kloter {
     private String kode;
